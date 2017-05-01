@@ -1,0 +1,32 @@
+Week 1:———
+1. proposal submission
+
+Week 2:——
+1. Obtained data set for collision analysis
+2. Found out which hours see highest amount of collisions.
+3. Found out which boroughs see the highest number of collisions.
+4. Searched for relation between dates and collisions.
+5. Looked for relationship between weekdays and collisions.
+6. Looked for relationship between months and collisions.
+
+Week 3:———
+1. Analysis of collisions in street level domains
+	- collisions on street
+	- collisions cross street
+	- collisions off street
+2. Analysis of collisions with respect to zip codes
+3. Searched for zip codes seeing highest and lowest number of collisions
+3. Latitude and Longitude analysis began, created a map by just plotting the collision data which had significant resemblance with the map of New York City.
+4. Found out the safest and the most risky places of the city. Plotted it on a map. The more frequent the number of collisions, the more number of circles were observed. Also, the radius of circles were adjusted in a manner that they reflect the severity of the accidents( more accidents at a particular latitude / longitude meant bigger circles).
+5. Looked for the regions of new york where injuries or deaths to pedestrians, motorists or cyclists occurred more frequently in New York. Upon closer inspection, we find that even though collisions that result in fatalities are spread throughout the map, incidents resulting in injuries are concentrated in certain regions only.
+
+Week 4:—————
+1. Started with researching the factors causing the collisions, found out that Driver Inattention, Fatigued driver, Failure to Yeild Right-Of-Way, Backing Unsafely, Turning improperly are the top reasons collisions. Most of these can be lessened with proper traffic regulations in my opinion.
+2. Found out the locations associated with the factors causing the collisions. The map showed promisingly showed streets where the occurrences were more frequent. for each of the factors.
+3. Next,I looked for vehicles involved in collisions. I found out that Taxis are causing most of the collisions in downtown manhattan, vans throughout - even though trends showed promises in lower to middle part of manhattan, Sports Utilities causing collisions throughout the map with bigger impacts on parts of bronx and queens. I found certain high-factor areas with passenger cars throughout the map.
+
+Week 5:————
+1. This week I brought another dataset on 311 requests to see if more 311 calls meant more vehicle collisions. Even though the top complaints in 311 requests did not include traffic complaints, Found out evidence that the two are fairly related. Repeated the same for latitude, longitude pairs and found similar results. 
+2. Plotting zip codes and latitude longitude pairs by scaling both 311 calls and collision information in a common scale.
+3. Prepared summarizing figures for the report
+4. Prepared the report and made the submission files.
